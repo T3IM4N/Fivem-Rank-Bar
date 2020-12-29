@@ -1,9 +1,9 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+fx_version 'adamand'
+game 'gta5'
 
 client_scripts {
     'client.lua'
 }
-
 
 export 'Exp_XNL_SetInitialXPLevels'
 export 'Exp_XNL_AddPlayerXP'
